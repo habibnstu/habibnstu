@@ -47,7 +47,7 @@
 ### 📫 Contact Me
 - **📧 Email**: habib.dev.bd@gmail.com
 - **🌐 Portfolio**: [Coming Soon...]
-- **🔗 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/habibnstu/))
+- **🔗 LinkedIn**: [(https://www.linkedin.com/in/habibnstu/)]
 
 ---
 
