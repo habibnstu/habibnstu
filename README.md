@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Web_API-5C2D91?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
 </p>
